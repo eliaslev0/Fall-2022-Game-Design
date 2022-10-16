@@ -1,4 +1,4 @@
-# Fall-2022-Game-Design
+# Cave Ascent
 
 Platformer game designed for Game Design class Fall 2022
 
